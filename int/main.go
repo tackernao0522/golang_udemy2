@@ -17,7 +17,7 @@ func main() {
 
 	fmt.Println(i + int(i2)) // 計算できるようになる
 
-	var i3 int8 = 50
+	var i3 int = 50
 
 	var i4 int16 = 499
 
